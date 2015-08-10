@@ -1,0 +1,17 @@
+
+{
+    "name": "lighp/module-pages",
+    "description": "A simple pages module",
+    "license": "MIT",
+    "version": "0.1.0",
+    "type":"lighp-module",
+    "authors": [
+        {
+            "name": "emersion",
+            "email": "contact@emersion.fr"
+        }
+    ],
+    "require": {
+        "lighp/composer-lighp-installers": "dev-master"
+    }
+}
